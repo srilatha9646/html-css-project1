@@ -1,0 +1,51 @@
+.navbar-brand
+{
+    color:white !important;
+    font-weight: 800;
+}
+.nav-link
+{
+    color:white !important;
+}
+.slider-image1
+{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   height:400px;
+   width:100%; 
+   }
+   .seller-image
+   {
+       height:300px;
+       width:300px;
+   }
+   .footer1
+   {
+       color: #fff;
+   }
+   
+   .link2:hover{
+    text-decoration: underline;
+}
+.link3:hover{
+    text-decoration: underline;
+}
+.link4:hover{
+    text-decoration: underline;
+}
+.link5:hover{
+    text-decoration: underline;
+}
+.link6:hover{
+    text-decoration: underline;
+}
+.footer-button
+{
+    padding:5px;
+    font-size: 2.5rem;
+}
+.faqh
+{
+    color:red;
+}
